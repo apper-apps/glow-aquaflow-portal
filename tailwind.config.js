@@ -47,8 +47,9 @@ export default {
         muted: '#64748b',
         success: '#4CAF50',
         warning: '#FF9800',
-        error: '#F44336',
+error: '#F44336',
         info: '#2196F3',
+        border: '#e5e7eb',
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
